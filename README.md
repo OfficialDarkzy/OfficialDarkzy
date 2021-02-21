@@ -11,7 +11,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/OfficialDarkzy/OfficialDarkzy/blob/main/code.gif?raw=true" width="500" height="320" />
 
-** All my Socials: **
+**All my Socials:**
 
 [<img align="left" alt="Darkzy | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
 [<img align="left" alt="Darkzy| Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
