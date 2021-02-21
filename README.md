@@ -8,3 +8,5 @@
 ## I am a FiveM Developer and have my own Custom Framework called DRP
 
 - ⚡ Come and join me on my streams for chill coding.
+
+![My stats](https://github-readme-stats.vercel.app/api?username=OfficialDarkzy&show_icons=true&count_private=true)
