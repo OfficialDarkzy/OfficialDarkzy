@@ -9,7 +9,7 @@
 - ⚡ I am currently developing a brand new FiveM server
 - ⚡ I am also currently re-creating a all new method to my framework DRP
 
-<img align="right" alt="GIF" src="https://github.com/OfficialDarkzy/OfficialDarkzy/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/OfficialDarkzy/OfficialDarkzy/code.gif?raw=true" width="500" height="320" />
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=OfficialDarkzy&show_icons=true&count_private=true)
 
