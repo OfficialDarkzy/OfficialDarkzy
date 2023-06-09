@@ -1,4 +1,4 @@
-<h1 align="center">Hello I am Darkzy and I do the codings :)
+<h1 align="center">My name is Darkzy, I do FiveM Server Development
  
 
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)][twitch]
