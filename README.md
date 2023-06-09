@@ -6,8 +6,7 @@
 
 ## I am a FiveM Developer and have my own Custom Framework called DRP
 
-- ⚡ I am currently developing a brand new FiveM server
-- ⚡ I am also currently re-creating a all new method to my framework DRP
+- ⚡ Currently Building a new 2023 "All in one" Framework for all your FiveM needs
 
 <img align="right" alt="GIF" src="https://github.com/OfficialDarkzy/OfficialDarkzy/blob/main/code.gif?raw=true" width="500" height="320" />
 
